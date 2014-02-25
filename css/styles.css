@@ -14,3 +14,7 @@
 .contact:hover {
   text-decoration: underline;
 }
+
+#hide-form {
+  display: none;
+}
